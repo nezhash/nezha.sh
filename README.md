@@ -36,6 +36,12 @@
 
 + 一键部署 tro* + ssl (+ ws (仅限tro*-go))
 
-## debian only
+## 我的们理念
 
-本脚本只适用于 debian，如果你用其它 linux 发行版 请离开。我们没精力也不会增加其它发行版的支持。
+### debian only
+
+本脚本只适用于 debian，如果你用其它 linux 发行版请离开。我们没兴趣也不会增加其它发行版的支持。
+
+### nginx only
+
+本脚本只会对 nginx 进行支持，我们没有兴趣也不会增加对其它 http 服务器的支持。
