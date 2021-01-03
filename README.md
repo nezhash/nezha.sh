@@ -10,11 +10,21 @@
 
 + 一键搭建LNPP(linux + nginx + postgresql + php / linux + nginx + postgresql + python3)
 
-+ 一键搭建 wordpress
++ 一键搭建go web 环境(gin，更多框架你可以通过应用市场获得)
+
++ 一键搭建rust web环境(actix，更多框架你可以通过应用市场获得)
+
++ 一键搭建java web 环境(spring boot，更多框架你可以通过应用市场获得)
+
++ 一键搭建c++ web 环境（drogon, 更多框架你可以通过应用市场获得）
+
++ 一键部署 wordpress
 
 + 一键搭建 redis
 
 + 一键搭建 mongodb
+
++ 一键搭建 neo4j
 
 + 一键部署 mysql 集群
 
@@ -25,3 +35,7 @@
 + 一键部署 v2* + ssl + ws
 
 + 一键部署 tro* + ssl (+ ws (仅限tro*-go))
+
+## debian only
+
+本脚本只适用于 debian，如果你用其它 linux 发行版 请离开。我们没精力也不会增加其它发行版的支持。
