@@ -4,8 +4,6 @@
 
 ## 功能
 
-> 优先基于 docker，你坚持不用docker亦可
-
 + 一键搭建LNMP(linux + nginx + mysql + php / linux + nginx + mysql + python3)
 
 + 一键搭建LNPP(linux + nginx + postgresql + php / linux + nginx + postgresql + python3)
@@ -41,6 +39,10 @@
 ### debian only
 
 本脚本只适用于 debian，如果你用其它 linux 发行版请离开。我们没兴趣也不会增加其它发行版的支持。
+
+### docker only
+
+本脚本搭建/部署的所有功能，都基于 docker 容器化技术，如果你非要让各种软件污染原生系统，请离开。我们没有兴趣也不会增加对非docker容器化技术的支持。
 
 ### nginx only
 
